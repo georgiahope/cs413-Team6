@@ -4,9 +4,9 @@
 * Jessie Gardner (jlp429)
 * Vidal Martinez (vrm55)
 ## Instructions
-The main player (you) plays as the roomba. Your goal is to pick up as many dirt piles as you can; once you have collected enough dirt piles, you win! However.. watch out for the cats - if you bump into them, they will only create a bigger mess by pooping on the floor and they will make you lose the game if you bump into them enough times. Have fun and cleanup in time for Christmas morning!
+The main player (you) plays as the roomba. Your goal is to pick up as many dirt piles as you can; once you have collected enough dirt piles, you win! However.. watch out for the cats... depending on the level of difficulty chosen, if you bump into any cats they will only create a bigger mess by pooping on the floor and they will make you lose the game if you bump into them enough times. Have fun and cleanup in time for Christmas morning!
 ## Known	Bugs	or	Issues
-None that we are aware of.
+The roomba sometimes will only pick up dirt piles on a certain side of the roomba.
 ## Credits
 *	Jessie Gardner:	Created cat sprites, poop sprites, rug sprite and fire place/fir sprites.
 Created pathways for cats.
